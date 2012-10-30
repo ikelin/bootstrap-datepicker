@@ -1,6 +1,6 @@
-# jQuery Dynamic List v2.0 #
+# Bootstrap Datepicker v1.0 #
 
-A jQuery UI Datepicker plugin with Twitter Bootstrap theme.  It's based on jQuery UI 1.9.* and Twitter Bootstrap 2.*.
+A jQuery UI Datepicker widget with Twitter Bootstrap theme.  It's based on jQuery UI 1.9.1 and Twitter Bootstrap 2.1.1.
 
 See demo page for more examples.
 
