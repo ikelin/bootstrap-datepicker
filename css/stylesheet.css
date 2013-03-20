@@ -1,0 +1,59 @@
+html {
+	color: #444;
+	font-size: 62.5%;
+}
+
+body {
+	font-family: helvetica,arial,san-serif;
+	font-size: 1.6em;
+	line-height: 1.5;
+	margin: 0 auto 1em;
+	padding: 0 1em;
+	max-width: 1024px;
+}
+
+h1 {
+	font-size: 1.8em;
+}
+
+a {
+	color: #06c;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #933;
+}
+
+code {
+	font-family: consolas,monaco,monospace;
+	color: #060;
+}
+
+.button {
+	display: inline-block;
+	outline: none;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	padding: .5em 2em .55em;
+	border-radius: .5em;
+	box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	
+	border: solid 1px #ccc;
+	background: #fff;
+	background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#eee));
+	background: -moz-linear-gradient(top, #fff, #eee);
+	background: linear-gradient(top, #fff, #eee);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#eeeeee');
+}
+
+.button:hover {
+	box-shadow: 0 2px 4px rgba(0,0,0,.2);
+}
+
+.button .text {
+	font-size: .8em;
+	color: #666;
+	display: block;
+}
